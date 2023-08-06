@@ -1,0 +1,29 @@
+.card:hover {
+    transform: scale(1.1);
+}
+
+.img-fixed {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
+
+.btn-outline-info {
+    border-color: #17a2b8;
+    color: #17a2b8;
+}
+
+.btn-outline-info:hover {
+    background-color: #17a2b8;
+    color: #fff;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+.img-fixed {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+}
